@@ -6,7 +6,7 @@
 
 ## Demo
 
-[观看演示视频（MP4）](demo/demo.mp4)
+![Minimal Agent 操作演示](demo/demo.gif)
 
 [demo/](demo/) 还包含三张示例截图：[执行计划进度](demo/plan-progress.png)、[长期记忆约定触发天气查询和待办](demo/memory-trigger-weather-todo.png)、[历史问答召回](demo/history-recall.png)。
 
