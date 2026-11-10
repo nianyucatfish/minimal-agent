@@ -1,0 +1,38 @@
+{
+  "code_run": {
+    "ok": true,
+    "data": {
+      "status": "success",
+      "exit_code": 0,
+      "stdout": "480\n",
+      "truncated": false,
+      "cwd": "/private/var/folders/1w/ph3l_z2s5h78tmcyh6jwyykm0000gn/T/tmptyyjrr71/work/de0879301c234bc8b4f3aaf059438364",
+      "elapsed_seconds": 0.035
+    }
+  },
+  "browser_snapshot": {
+    "ok": true,
+    "data": {
+      "tab_id": 1858808428,
+      "page": {
+        "content": "跳到主要内容Search / Fetch API 已上线，使用自研搜索引擎，支持网页搜索与抓取，点此查看使用指南DeepSeek API 文档⌘K更多资源实用集成API 服务状态常见问题中文（中国）English中文（中国）开放平台EN快速开始API 指南API 文档新闻更新日志首次调用 API模型 & 价格Token 用量计算限速与隔离错误码接入 Agent 工具DeepSeek HarnessClaude CodeCodexOpenCodeOpenClawHermesReasonixWorkBuddy/CodeBuddyQoder贡献你的 Agent 接入首次调用 API本页目录复制 Markdown复制 Markdown打开 Markdown首次调用 API DeepSeek API 使用与 OpenAI/Anthropic 兼容的 API 格式，通过修改配置，您可以使用 OpenAI/Anthropic SDK 来访问 DeepSeek API，或使用与 OpenAI/Anthropic API 兼容的软件。 PARAMVALUEbase_url (OpenAI)https://api.deepseek.combase_url (Anthropic)https://api.deepseek.com/anthropicapi_key申请一个 API keymodeldeepseek-flash(1)deepseek-v4-pro (1) 模型名请使用 deepseek-flash。该模型现已升级为 DeepSeek-V4.1-Flash-1017，调用方式保持不变。旧模型名 deepseek-v4-flash、deepseek-v4-flash-vision-exp 仍可调用，但对应模型已下线，请求由 DeepSeek-V4.1-Flash-1017 模型提供服务，并按 Flash 价格计费。 接入 Agent 工具​ DeepSeek Harness 开发者预览版面向全球 Harness 开发者开放测试。详见 DeepSeek Harness 入门。 DeepSeek API 已接入多种主流 AI Agent 与编程助手工具。如果你使用 Claude Code、GitHub Copilot、OpenCode 等工具，可以直接将 DeepSeek 作为后端模型，无需编写代码即可开始使用。 详见 Agent 工具接入指南。 调用对话 API​ 在创建 API key 之后，你可以使用以下样例脚本，通过 OpenAI API 格式来访问 DeepSeek 模型。样例为非流式输出，您可以将 stream 设置为 true 来使用流式输出。 Anthropic API 格式的访问样例，请参考Anthropic API。 运行以下示例前，请在当前终端中将环境变量",
+        "title": "首次调用 API | DeepSeek API Docs",
+        "truncated": true,
+        "url": "https://api-docs.deepseek.com/zh-cn/"
+      }
+    }
+  },
+  "browser_js": {
+    "ok": true,
+    "data": {
+      "tab_id": 1858808428,
+      "result": {
+        "heading": "首次调用 API",
+        "title": "首次调用 API | DeepSeek API Docs",
+        "url": "https://api-docs.deepseek.com/zh-cn/"
+      },
+      "truncated": false
+    }
+  },
+  "scope": "temporary workspace and read-only public DeepSeek documentation"
+}

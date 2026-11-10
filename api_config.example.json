@@ -1,0 +1,15 @@
+{
+  "api_key": "",
+  "base_url": "https://api.deepseek.com",
+  "model": "deepseek-flash",
+  "request_options": {
+    "thinking": {
+      "type": "disabled"
+    },
+    "max_tokens": 2048
+  },
+  "proxy_mode": "direct",
+  "timeout": 30,
+  "context_chars": 240000,
+  "trim_keep_rate": 0.3
+}

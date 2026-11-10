@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Minimal Agent Browser Bridge",
+  "version": "0.1.0",
+  "description": "Connect local Agent tools to explicitly selected Chrome tabs.",
+  "permissions": ["tabs", "debugger", "alarms"],
+  "host_permissions": ["http://*/*", "https://*/*"],
+  "background": {"service_worker": "background.js"},
+  "action": {"default_title": "Minimal Agent Browser Bridge"}
+}

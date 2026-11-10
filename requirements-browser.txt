@@ -1,0 +1,2 @@
+# Optional standalone browser relay; the core Agent uses only the standard library.
+simple-websocket-server

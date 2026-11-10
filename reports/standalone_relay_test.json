@@ -1,0 +1,7 @@
+{
+  "websocket_handshake": true,
+  "extension_registration": true,
+  "http_to_websocket_roundtrip": true,
+  "explicit_target": true,
+  "scope": "synthetic browser peer, not Chrome"
+}

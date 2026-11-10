@@ -1,0 +1,10 @@
+data/
+.env
+__pycache__/
+*.pyc
+api_config.local.json
+api_config.*.local.json
+workspace/
+temp/
+.venv-browser/
+.DS_Store
